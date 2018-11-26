@@ -1,4 +1,4 @@
-# ex35_1.py
+# ex36.py
 
 from sys import exit
 
